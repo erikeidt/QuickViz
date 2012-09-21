@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://QuickViz/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://QuickViz/locale/overlay.dtd">
+<overlay id="QuickViz-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="overlay.js"/>
+  <!--script src="ff-overlay.js"/-->
+
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="QuickViz-strings" src="chrome://QuickViz/locale/overlay.properties"/>
+  </stringbundleset>
+
+  <!--popup id="contentAreaContextMenu">
+    <menuitem id="context-QuickViz" label="&QuickVizContext.label;"
+              accesskey="&QuickVizContext.accesskey;"
+              insertafter="context-stop"
+              oncommand="QuickViz.onMenuItemCommand(event)"/>
+  </popup-->
+
+
+
+
+</overlay>

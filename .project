@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>QuickViz</name>
+	<comment>nothing do to, just create the .xpi file from the .xpi.jardesc</comment>
+	<projects>
+	</projects>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+</projectDescription>

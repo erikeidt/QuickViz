@@ -1,0 +1,14 @@
+<!ENTITY prefwindow.title "QuickViz Preferences">
+<!ENTITY pane1.title "QuickViz preferences">
+<!ENTITY panInsteadOfDrag.label "Pan instead of Drag">
+<!ENTITY panInsteadOfDrag.accesskey "P">
+<!ENTITY reverseWheelDirection.label "Reverse Wheel Direction">
+<!ENTITY reverseWheelDirection.accesskey "R">
+<!ENTITY wheelSensitivity.label "Wheel Sensitivity">
+<!ENTITY wheelSensitivity.accesskey "W">
+<!ENTITY overSizeZ.label "Oversize Zoom Limit (percent)">
+<!ENTITY overSizeZ.accesskey "Z">
+<!ENTITY mousemoveAmplify.label "Mouse Movement Amplification (percent)">
+<!ENTITY mousemoveAmplify.accesskey "M">
+<!ENTITY reload.msg1 "NOTE:">
+<!ENTITY reload.msg2 "	Reload diagram window(s) for changes to take effect.">

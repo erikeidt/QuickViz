@@ -1,0 +1,8 @@
+<!ENTITY QuickViz.label "Your localized menuitem">
+<!ENTITY QuickVizContext.label "QuickViz">
+<!ENTITY QuickVizContext.accesskey "">
+<!ENTITY QuickVizToolbarButton.label "Your Toolbar Button">
+<!ENTITY QuickVizToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY QuickVizSidebar.label "Your Sidebar">
+<!ENTITY QuickVizToolbar.name  "example">
+<!ENTITY QuickVizToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &QuickVizToolbar.name;">

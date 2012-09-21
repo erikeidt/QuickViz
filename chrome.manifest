@@ -1,0 +1,6 @@
+content   QuickViz                 chrome/content/
+skin      QuickViz   classic/1.0   chrome/skin/
+locale    QuickViz   en-US         chrome/locale/en-US/
+
+
+overlay   chrome://browser/content/browser.xul   chrome://QuickViz/content/ff-overlay.xul

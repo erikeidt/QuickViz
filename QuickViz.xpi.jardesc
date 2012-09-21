@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="QuickViz/QuickViz.xpi"/>
+    <options buildIfNeeded="false" compress="true" descriptionLocation="/QuickViz/QuickViz.xpi2.jardesc" exportErrors="false" exportWarnings="false" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="false">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <folder path="/QuickViz/chrome"/>
+        <folder path="/QuickViz/defaults"/>
+        <file path="/QuickViz/chrome.manifest"/>
+        <file path="/QuickViz/install.rdf"/>
+        <file path="/QuickViz/ABOUT.txt"/>
+        <file path="/QuickViz/LICENSE.txt"/>
+    </selectedElements>
+</jardesc>
